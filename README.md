@@ -27,7 +27,7 @@ online payments fraud detection/ │ ├── data/ │ └── sampledata.cs
 
 🛠️ Technologies Used
 
-Component Technology Frontend HTML, CSS Backend Python, Flask ML Libraries Scikit-learn, XGBoost, Pandas, NumPy Visualization Matplotlib, Seaborn Model Storage Pickle (model.pkl) Clone the repository:https://github.com/lokesh-143-sai/ONLINE-PAYMENTS-FRAUD-DETECTION-USING-MACHINE-LEARNING
+Component Technology Frontend HTML, CSS Backend Python, Flask ML Libraries Scikit-learn, XGBoost, Pandas, NumPy Visualization Matplotlib, Seaborn Model Storage Pickle (model.pkl) Clone the repository:https://github.com/sivakumarvaragani43-debug/ONLINE-PAYMENTS-FRAUD-DETECTION-USING-MACHINE-LEARNING
 
 ⚙️ How to Run the Project:
 
